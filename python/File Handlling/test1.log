@@ -1,0 +1,39 @@
+2023-03-19 19:44:28,055 this is my info message
+2023-03-19 19:44:32,614 this is my eror
+2023-03-19 19:44:32,615 this is my critical
+2023-03-19 19:46:48,179 pickle loaded: /home/Amish32216/anaconda3/lib/python3.9/logging/__init__.py
+2023-03-19 19:47:02,817 diff parser start
+2023-03-19 19:47:02,818 line_lengths old: 1; new: 1
+2023-03-19 19:47:02,818 -> code[replace] old[1:1] new[1:1]
+2023-03-19 19:47:02,819 parse_part from 1 to 1 (to 0 in part parser)
+2023-03-19 19:47:02,819 diff parser end
+2023-03-19 19:47:03,856 diff parser start
+2023-03-19 19:47:03,858 line_lengths old: 1; new: 1
+2023-03-19 19:47:03,859 -> code[replace] old[1:1] new[1:1]
+2023-03-19 19:47:03,861 parse_part from 1 to 1 (to 0 in part parser)
+2023-03-19 19:47:03,861 diff parser end
+2023-03-19 19:47:22,988 diff parser start
+2023-03-19 19:47:22,988 line_lengths old: 1; new: 1
+2023-03-19 19:47:22,988 -> code[replace] old[1:1] new[1:1]
+2023-03-19 19:47:22,989 parse_part from 1 to 1 (to 0 in part parser)
+2023-03-19 19:47:22,989 diff parser end
+2023-03-19 19:47:54,206 diff parser start
+2023-03-19 19:47:54,206 line_lengths old: 1; new: 1
+2023-03-19 19:47:54,206 -> code[replace] old[1:1] new[1:1]
+2023-03-19 19:47:54,207 parse_part from 1 to 1 (to 0 in part parser)
+2023-03-19 19:47:54,208 diff parser end
+2023-03-19 19:48:01,392 diff parser start
+2023-03-19 19:48:01,392 line_lengths old: 1; new: 1
+2023-03-19 19:48:01,392 -> code[replace] old[1:1] new[1:1]
+2023-03-19 19:48:01,393 parse_part from 1 to 1 (to 0 in part parser)
+2023-03-19 19:48:01,393 diff parser end
+2023-03-19 19:48:02,032 diff parser start
+2023-03-19 19:48:02,033 line_lengths old: 1; new: 1
+2023-03-19 19:48:02,033 -> code[replace] old[1:1] new[1:1]
+2023-03-19 19:48:02,034 parse_part from 1 to 1 (to 0 in part parser)
+2023-03-19 19:48:02,034 diff parser end
+2023-03-19 19:48:25,852 diff parser start
+2023-03-19 19:48:25,854 line_lengths old: 1; new: 1
+2023-03-19 19:48:25,854 -> code[replace] old[1:1] new[1:1]
+2023-03-19 19:48:25,858 parse_part from 1 to 1 (to 0 in part parser)
+2023-03-19 19:48:25,858 diff parser end
